@@ -4,4 +4,7 @@ public class DemoJava5
 	
 	
 	}
+	public void exitProcess(){
+	
+	}
 }
