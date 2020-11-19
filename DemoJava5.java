@@ -1,4 +1,4 @@
-public class DemoJava5
+public interface DemoJava5
 {
 	public void doProcess(){
 		sysout("this is do process message");
